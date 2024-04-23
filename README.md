@@ -18,4 +18,4 @@
 
 ## Resultado
 
-![Alt text](./Test.png "Optional title")
+![Alt text](https://github.com/LucasGNMachado/CiberSecuroty-Treinning/blob/main/Teste.png?raw=true "Optional title")
