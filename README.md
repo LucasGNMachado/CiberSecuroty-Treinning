@@ -15,3 +15,7 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.mercadolivre.com.br
+
+## Resultado
+
+![Alt text](./test.png "Optional title")
