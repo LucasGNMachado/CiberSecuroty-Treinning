@@ -18,4 +18,4 @@
 
 ## Resultado
 
-![Alt text](./test.png "Optional title")
+![Alt text](./Test.png "Optional title")
